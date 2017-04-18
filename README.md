@@ -1,1 +1,1 @@
-# Whac-A-Mole-PRoject
+# Whac-A-Mole-Project
